@@ -1,2 +1,1 @@
-print ( 'ola admiravel mundo novo')
-print('mudanca temp')
+ print ( ’Ola mundo , meu nome e Fulano ’)
